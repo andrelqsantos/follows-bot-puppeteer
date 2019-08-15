@@ -1,0 +1,20 @@
+{
+  "name": "follows-bot-puppeteer",
+  "version": "1.0.0",
+  "description": "A simple bot that follows people on instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrelqsantos/follows-bot-puppeteer.git"
+  },
+  "author": "Andre Queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrelqsantos/follows-bot-puppeteer/issues"
+  },
+  "homepage": "https://github.com/andrelqsantos/follows-bot-puppeteer#readme"
+}
